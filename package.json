@@ -1,0 +1,16 @@
+{
+  "name": "squirt-crossrider",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-jshint": "^1.5.0",
+    "gulp-coffee": "^1.4.1",
+    "gulp-util": "^2.2.14",
+    "gulp-clean": "^0.2.4",
+    "gulp-imagemin": "^0.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/DoersGuild/squirt-crossrider.git"
+  }
+}
